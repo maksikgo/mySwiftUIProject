@@ -1,1 +1,1 @@
-# mySwiftUIProject
+Training SwiftUI with swiftbook.ru
